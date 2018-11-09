@@ -2,8 +2,6 @@ package aplicacion;
 
 import java.awt.Color;
 
-import presentacion.Casilla;
-
 public class Senku {
 
 	private char[][] matriz;
